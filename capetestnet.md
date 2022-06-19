@@ -1,5 +1,5 @@
 ## Tavsiye Edilen Sistem Gereksinimleri
-- İşlemleri hızlı bir şekilde halldebilmeniz için 4 CPU 8GB RAM olan bir sistemi tercih etmeniz tavsiye ediyorum.
+- İşlemleri hızlı bir şekilde halldebilmeniz için 4 CPU 8GB RAM olan bir sistemi tercih etmenizi tavsiye ediyorum.
 - Ubuntu 20.04
 
 ## Ubuntu Masaüstü Kurulumu
@@ -24,5 +24,5 @@ sudo docker-compose up
 ```
 
 ## Testnet İşlemleri
-- İşlemleri yaptıktan sonra tarayıcıya localhos yazarak videodaki adımları gerçekleştiriyoruz.
-   - 
+- İşlemleri yaptıktan sonra tarayıcıya ``localhost`` yazarak videodaki adımları gerçekleştiriyoruz.
+      - 
