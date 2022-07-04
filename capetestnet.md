@@ -29,5 +29,5 @@ sudo docker-compose up
 
 ## Ek İşlemler
 - Videodan sonra ek adımlar yayınlanmıştı başka ayrıntıları da anlattığım bir flood hazırladım. Biraz uzun olduğundan 2 bölüm halinde yayınladım. Keyifli okumalar.
-     - 1. Bölüm https://twitter.com/NakoTurk/status/1544006217827237891
-     - 2. Bölüm https://twitter.com/NakoTurk/status/1544006373435998209
+     - 1.Bölüm https://twitter.com/NakoTurk/status/1544006217827237891
+     - 2.Bölüm https://twitter.com/NakoTurk/status/1544006373435998209
