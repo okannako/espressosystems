@@ -25,5 +25,5 @@ sudo docker-compose up
 
 ## Testnet İşlemleri
 - İşlemleri yaptıktan sonra tarayıcıya ``localhost`` yazarak videodaki adımları gerçekleştiriyoruz.
-     - 
+     - https://youtu.be/_L7r2InsIAg
 
