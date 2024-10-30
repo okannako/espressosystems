@@ -7,8 +7,8 @@
 sudo apt update
 sudo apt-get dist-upgrade
 sudo apt-get install ubuntu-desktop
-wget https://download.nomachine.com/download/7.9/Linux/nomachine_7.9.2_1_amd64.deb
-sudo dpkg -i nomachine_7.9.2_1_amd64.deb
+wget https://download.nomachine.com/download/8.14/Linux/nomachine_8.14.2_1_amd64.deb
+sudo dpkg -i nomachine_8.14.2_1_amd64.deb
 sudo adduser kullanici
 usermod -aG sudo kullanici
 reboot
